@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF to Word"
+  short_description: "Convert a PDF into an editable, layout-true Word file"
+  default_prompt: "Use $pdf-to-word to convert this PDF into an editable Word document."
